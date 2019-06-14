@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
-/dist
+
+# For this PoC we simply want the dist for easier access of generated files
+# /dist
 
 # local env files
 .env.local

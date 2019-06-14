@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Partner Website testing Garaio webcomponent!</title>
+    <style>
+      body {
+        background-color: lightcoral;
+        color: darkred;
+      }
+      h1 {
+        color: red !important;
+      }
+    </style>
+  </head>
+  <body>
+    <!--Load Vue-->
+    <script src="https://unpkg.com/vue"></script>
+    <!--Load the web component polyfill-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/1.2.0/webcomponents-loader.js"></script>
+    <!--Load your custom element-->
+    <script src="./garaio-webcomponent-test.js"></script>
+
+    <h1>
+      Partner website!
+    </h1>
+    <p>This PoC tests the webcomponents using vue.js</p>
+    <p>
+      The Partner website has red colors, and the webcomponent from Garaio of
+      course is blue/black ;)
+    </p>
+    <p>Any issues? Guess not! Have fun!</p>
+
+    <garaio-webcomponent-test
+      msg="Hello super fancy Garaio company!"
+    ></garaio-webcomponent-test>
+  </body>
+</html>
