@@ -1,8 +1,13 @@
 <template>
   <div id="app">
-    <link href="http://garaio.com/Frontend/Garaio/dist/css/garaio.bundle.css" rel="stylesheet">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <VueWebComponent msg="Welcome to Your Vue.js + TypeScript App as WebComponent!"/>
+    <link
+      href="http://garaio.com/Frontend/Garaio/dist/css/garaio.bundle.css"
+      rel="stylesheet"
+    />
+    <img alt="Vue logo" src="./assets/logo.png" />
+    <VueWebComponent
+      msg="Welcome to Your Vue.js + TypeScript App as WebComponent!"
+    />
   </div>
 </template>
 

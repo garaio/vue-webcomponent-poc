@@ -12,7 +12,9 @@
         </a>
         <div class="tile-frontface tile-presentational tile-blue">
           <div>
-            <h2>Warum die digitale Transformation für Ihr Unternehmen relevant ist</h2>
+            <h2>
+              Warum die digitale Transformation für Ihr Unternehmen relevant ist
+            </h2>
           </div>
         </div>
         <div class="tile-backface">
@@ -23,13 +25,28 @@
                 <span class="text-label"></span>
               </div>
             </header>
-            <h6>Warum die digitale Transformation für Ihr Unternehmen relevant ist</h6>
-            <p>Digitale Technologien entwickeln sich in einer unglaublichen Geschwindigkeit. Und jede neue Technologie begünstigt wiederum die Entstehung einer weiteren Technologie. Unternehmen sind ob dieser Geschwindigkeit gefordert – denn neue Technologien schnüren auch immer neue Erwartungen bei Anwendern, Mitarbeitenden und Kunden. Wer mangels Agilität und Anpassungsfähigkeit nicht mithalten kann, wird von der Konkurrenz überholt. Setzen Sie die neuen Technologien also für sich ein. Hinterfragen Sie regelmässig Ihre Prozesse, Ihr Portfolio oder gar Ihr Businessmodell. Seien Sie aktiv in der Gestaltung der unmittelbaren Zukunft. Und setzen Sie eigene Standards in Ihrem Tätigkeitsgebiet.</p>
+            <h6>
+              Warum die digitale Transformation für Ihr Unternehmen relevant ist
+            </h6>
+            <p>
+              Digitale Technologien entwickeln sich in einer unglaublichen
+              Geschwindigkeit. Und jede neue Technologie begünstigt wiederum die
+              Entstehung einer weiteren Technologie. Unternehmen sind ob dieser
+              Geschwindigkeit gefordert – denn neue Technologien schnüren auch
+              immer neue Erwartungen bei Anwendern, Mitarbeitenden und Kunden.
+              Wer mangels Agilität und Anpassungsfähigkeit nicht mithalten kann,
+              wird von der Konkurrenz überholt. Setzen Sie die neuen
+              Technologien also für sich ein. Hinterfragen Sie regelmässig Ihre
+              Prozesse, Ihr Portfolio oder gar Ihr Businessmodell. Seien Sie
+              aktiv in der Gestaltung der unmittelbaren Zukunft. Und setzen Sie
+              eigene Standards in Ihrem Tätigkeitsgebiet.
+            </p>
             <div class="tile-btn">
               <a
                 class="btn btn-primary"
                 href="/page(afe759ff-5fc6-4bc3-8060-d306d8a5214f)"
-              >Mehr erfahren</a>
+                >Mehr erfahren</a
+              >
             </div>
           </div>
         </div>
