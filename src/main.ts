@@ -1,8 +1,11 @@
 import Vue from "vue";
-import App from "./App.vue";
+import wrap from "@vue/web-component-wrapper";
+// import VueWebComponent from "./components/VueWebComponent.vue";
+import VueWebComponentApp from "./App.vue";
 
-Vue.config.productionTip = false;
+const GaraioWebcomponentTest = wrap(Vue, VueWebComponentApp);
 
-new Vue({
-  render: h => h(App)
-}).$mount("#app");
+window.customElements.define(
+  "garaio-webcomponent-test",
+  GaraioWebcomponentTest
+);

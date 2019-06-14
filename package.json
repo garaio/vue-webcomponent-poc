@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "build-webcomponent": "vue-cli-service build --target wc --name garaio-webcomponent-test ./src/main.ts",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
